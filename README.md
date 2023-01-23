@@ -15,3 +15,8 @@ Requisitos:
 
 Repositório Docker Hub:
 https://hub.docker.com/repository/docker/felipekosouski/hello-opt-docker/general
+
+## How to run
+```bash
+docker run felipekosouski/hello-opt-docker
+```
